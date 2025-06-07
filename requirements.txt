@@ -19,7 +19,6 @@ idna==3.10
 jiter==0.10.0
 notion-client==2.3.0
 oauthlib==3.2.2
-openai==1.84.0
 proto-plus==1.26.1
 protobuf==6.31.1
 pyasn1==0.6.1
